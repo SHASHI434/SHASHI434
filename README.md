@@ -5,10 +5,10 @@
 
 <!-- GitHub Profile Image -->
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/SHASHI434" width="120" style="border-radius: 50%" />
+  <img src="https://avatars.githubusercontent.com/SHASHI434" width="150" style="border-radius: 50%" />
 </p>
 
-<!-- Social badges -->
+<!-- Badges -->
 <p align="center">
   <a href="https://www.linkedin.com/in/shashi-raj-17a614318" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" />
@@ -20,20 +20,23 @@
 
 ---
 
-### 👨‍💻 About Me
+### 👨‍💼 About Me
 
-- 🎓 I'm **Shashi Raj**, a CSE student passionate about **Web Development**, **DSA**, and real-world project building.
-- 🌱 Currently working on:
-  - `Carbon Footprint Tracker 🌱` – a web app to track and reduce emissions.
-  - `C Problems` – a repository for mastering C and DSA.
-- 🔍 Exploring: `React`, `MongoDB`, and `backend development`.
-- 🧠 Actively learning and solving problems using `C++`, `HTML/CSS`, and `JavaScript`.
-- 💡 I enjoy building intuitive UIs, solving algorithmic challenges, and contributing to meaningful tech projects.
-- 💬 Ask me about: Web Dev, C++, DSA, or any of my projects!
+> 🙋‍♂️ **Hi, I'm Shashi Raj** – a Computer Science Engineering student passionate about **building impactful projects**, solving **DSA problems**, and crafting **modern web experiences**.  
+>  
+> ⚡ I'm a fast learner, problem solver, and love turning ideas into real-world software. Whether it's frontend UIs or backend logic – I enjoy it all!
 
 ---
 
-### 🚀 Tech Stack
+### 💼 Currently:
+
+- 🔨 Working on a **Carbon Footprint Tracker** – to help people reduce their emissions
+- 🧠 Practicing C++ and DSA by solving real problems
+- 🌐 Learning full-stack dev with **React** & **MongoDB**
+
+---
+
+### 🧰 Tech Stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,cpp,github,git,vscode" />
@@ -41,7 +44,7 @@
 
 ---
 
-### 📊 GitHub Stats
+### 🚀 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SHASHI434&show_icons=true&theme=radical" height="160"/>
@@ -65,10 +68,10 @@
 ### 🛠️ Highlight Projects
 
 - 🌿 **[Carbon Footprint Tracker](https://github.com/SHASHI434/Carbon-tracker.git)**  
-  A full-featured web app that tracks and visualizes your environmental impact.
+  A smart web app that tracks emissions and gives personalized insights.
 
 - 💻 **[C - Problems](https://github.com/SHASHI434/C-problems.git)**  
-  A collection of C/DSA practice problems to sharpen programming fundamentals.
+  A powerful collection of beginner-to-advanced C/DSA practice problems.
 
 ---
 
@@ -82,5 +85,5 @@
 ---
 
 <p align="center">
-  <b>Thanks for visiting! 🚀 Keep coding and keep growing 💻✨</b>
+  🚀 <b>Thank you for visiting!</b> Let's build something great together. 🌟
 </p>
